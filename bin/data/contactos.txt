@@ -1,0 +1,4 @@
+codigo,nombre,telefono
+1,luis,991165120
+2,maria,954545545
+3,jose,987841021
